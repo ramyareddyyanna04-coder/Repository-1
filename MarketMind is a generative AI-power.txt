@@ -1,0 +1,2 @@
+MarketMind is a generative AI-powered sales and marketing intelligence platform that helps businesses understand their customers better and take the right decisions at the right time.
+Even though many AI tools exist, businesses still struggle to understand why sales go down and what action they should take next. MarketMind solves this by collecting all sales and marketing data in one place and explaining insights in simple language. Users can ask questions and get clear reasons and suggestions instead of confusing charts.
